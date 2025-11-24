@@ -1,0 +1,2 @@
+# Advanced-Time-Series-Forecasting-with-Deep-Learning-N-BEATS-Architecture-Implementation
+This project implements the N-BEATS deep learning architecture for long-horizon time series forecasting. It generates a synthetic multi-variate dataset, trains N-BEATS with trend and seasonality stacks, compares performance against a SARIMA baseline, and includes an ablation study to analyze model interpretability and forecasting accuracy.
